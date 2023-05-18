@@ -20,6 +20,7 @@ Scripti çalıştırmak istemiyorsanız **Database** klasörü altındaki **ovod
 <br>
 
 ```bash
+npm install
 node index.js
 ```
 
