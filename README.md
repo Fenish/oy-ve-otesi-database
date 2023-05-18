@@ -26,7 +26,7 @@ node index.js
 
 <br>
 
-## Sağlanan veriler
+## Örnek tablo görüntüsü
 
 | id  | city_name | district_name | ballot_box_id | image_url | recep_tayyip | muharrem_ince | kemal_kilicdaroglu | sinan_ogan |
 | --- | --------- | ------------- | ------------- | --------- | ------------ | ------------- | ------------------ | ---------- |
