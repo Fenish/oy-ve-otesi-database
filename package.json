@@ -1,0 +1,14 @@
+{
+  "name": "ovo-sql-to-db",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "author": "fenish",
+  "license": "ISC",
+  "dependencies": {
+    "better-sqlite3": "^8.3.0",
+    "inquirer": "^9.2.4",
+    "jsonfile": "^6.1.0"
+  }
+}
